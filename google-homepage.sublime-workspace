@@ -1,0 +1,742 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"body	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"o",
+				"optgroup	Tag"
+			],
+			[
+				"s",
+				"select	Tag"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"brd",
+				"border-radius"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"new",
+				"newDate"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"g",
+				"gallery"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"lsts",
+				"list-style"
+			],
+			[
+				"f",
+				"footer	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"clr",
+				"color"
+			],
+			[
+				"mrg",
+				"margin"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"mys",
+				"mysql_errno"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"trs",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"med",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"crs",
+				"cursor"
+			],
+			[
+				"lst",
+				"list-style"
+			],
+			[
+				"t",
+				"title	Tag"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"next",
+				"next-button"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"box",
+				"box	CSS - box-sizing: border-box;"
+			],
+			[
+				"pd",
+				"padding"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"to",
+				"top	CSS - top: 0;"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"bordco",
+				"border-bottom-color"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"answer",
+				"answers"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"tr",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"ff",
+				"ff0000"
+			],
+			[
+				"di",
+				"div"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"jq",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 242.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/JQuery-Form/index.html",
+		"/E/JQuery-Form/css/style.css",
+		"/D/XAMPP/htdocs/webetter/wp-content/themes/vantage/slider/metaslider-editor-style.css",
+		"/E/ALL ABOUT INTERNET/the_odin_project/google-homepage/LICENSE",
+		"/E/ALL ABOUT INTERNET/the_odin_project/google-homepage/.git/config",
+		"/E/Eduonix/JAVASCRIPT-JQUERY/Portfolio/index.html",
+		"/E/Eduonix/JAVASCRIPT-JQUERY/Portfolio/js/script.js",
+		"/E/Eduonix/JAVASCRIPT-JQUERY/Portfolio/css/style.css",
+		"/E/Eduonix/JAVASCRIPT-JQUERY/Faq Accordian/Chapter+4+-+FAQ+Accordian+Slider/Chapter 4 - FAQ Accordian Slider/S4 - FAQ Slider JavaScript/Program Files/faqslider/index.html",
+		"/D/XAMPP/htdocs/webetter/wp-content/themes/vantage/style.css",
+		"/D/XAMPP/htdocs/webetter/wp-content/themes/vantage/style.less",
+		"/E/Bootstrap-W3S/index.html",
+		"/E/SASS/color-me-sass/color-me-sass/colors/_bootstrap.scss",
+		"/E/SASS/color-me-sass/color-me-sass/_color-me-sass.scss",
+		"/E/Bootstrap-W3S/.sass-cache/8da038458aeaaf657354fd084e0ab6a24e8c67ff/style.scssc",
+		"/E/Bootstrap-W3S/sass/screen.scss",
+		"/E/Bootstrap-W3S/js/script.js",
+		"/E/Bootstrap-W3S/sass/style.scss",
+		"/E/Bootstrap-W3S/css/style.css",
+		"/D/Program Files/Scout/javascripts/app/process_interaction.js",
+		"/E/ALL ABOUT INTERNET/Responsive/responsive-flexbox-grid/index.html",
+		"/E/ALL ABOUT INTERNET/Responsive/responsive-flexbox-grid/css/style.css",
+		"/E/ALL ABOUT INTERNET/Responsive/responsive-flexbox-grid/README.txt",
+		"/E/Eduonix/game/Chapter+10+-+Tic+Tac+Toe+Game/Chapter 10 - Tic Tac Toe Game/S3 - Tic Tac Toe CSS/Program Files/tictactoe/css/style.css",
+		"/E/Eduonix/game/Chapter+10+-+Tic+Tac+Toe+Game/Chapter 10 - Tic Tac Toe Game/S3 - Tic Tac Toe CSS/Program Files/tictactoe/index.html",
+		"/D/XAMPP/htdocs/mobile/css/style.css",
+		"/D/XAMPP/htdocs/mobile/js/script.js",
+		"/D/XAMPP/htdocs/mobile/index.html",
+		"/D/XAMPP/htdocs/mobile/Chapter+9+-+jQuery+Mobile+App/Chapter 9 - jQuery Mobile App/S4 - Displaying Runs/Program Files/miletracker/js/script.js",
+		"/D/XAMPP/htdocs/mobile/Chapter+9+-+jQuery+Mobile+App/Chapter 9 - jQuery Mobile App/S3 - Adding Runs to localStorage/Program Files/miletracker/js/script.js",
+		"/E/Eduonix/mobile/Chapter+9+-+jQuery+Mobile+App/Chapter 9 - jQuery Mobile App/S2 - jQuery Mobile UI/Program Files/miletracker/index.html",
+		"/E/Eduonix/Portfolio/Chapter+8+-+jQuery+Portfolio+Gallery/Chapter 8 - jQuery Portfolio Gallery/S4 - Image Overlay Effect/Program Files/pgallery/js/script.js",
+		"/E/Eduonix/Portfolio/Chapter+8+-+jQuery+Portfolio+Gallery/Chapter 8 - jQuery Portfolio Gallery/S3 - Image Categories/Program Files/pgallery/js/script.js",
+		"/E/Eduonix/linkit/jquery.linkit/jquery.linkit.js",
+		"/E/Eduonix/linkit/index.html",
+		"/E/Eduonix/linkit/jquery.linkit/linkit.jquery.json",
+		"/E/Eduonix/linkit/jquery.linkit/package.json",
+		"/D/Download Chrome/dimsemenov-Magnific-Popup-0.9.9-0-g2ff1692/dimsemenov-Magnific-Popup-2ff1692/bower.json",
+		"/D/Download Chrome/dimsemenov-Magnific-Popup-0.9.9-0-g2ff1692/dimsemenov-Magnific-Popup-2ff1692/magnific-popup.jquery.json",
+		"/E/Eduonix/linkit/jquery.linkit/LICENSE.text",
+		"/E/Eduonix/linkit/jquery.linkit/README.md",
+		"/E/Eduonix/linkit/Chapter+7+-+Create+a+jQuery+Plugin/Chapter 7 - Create a jQuery Plugin/S3 - Creating The Main Plugin File/Program Files/linkIt/jquery.linkIt/jquery.linkIt.js",
+		"/E/Eduonix/Apple style/index.html",
+		"/E/Eduonix/Apple style/css/style.css",
+		"/E/Eduonix/Apple style/js/script.js",
+		"/E/Eduonix/Apple style/Chapter+6+-+Apple+Style+Thumbslider/Chapter 6 - Apple Style Thumbslider/S4 - Thumbslider JavaScript/Program Files/thumbslider/js/script.js",
+		"/E/Eduonix/Apple style/Chapter+6+-+Apple+Style+Thumbslider/Chapter 6 - Apple Style Thumbslider/S3 - Thumbslider CSS/Program Files/thumbslider/index.html",
+		"/E/Eduonix/Apple style/Chapter+6+-+Apple+Style+Thumbslider/Chapter 6 - Apple Style Thumbslider/S3 - Thumbslider CSS/Program Files/thumbslider/css/style.css",
+		"/D/XAMPP/htdocs/jsshoutbox/index.php",
+		"/D/XAMPP/htdocs/jsshoutbox/database.php",
+		"/D/XAMPP/htdocs/jsshoutbox/shoutbox.php",
+		"/E/Eduonix/Ajax Php Shoutbox/Chapter+5+-+Ajax+PHP+Shoutbox/Chapter 5 - Ajax PHP Shoutbox/S5 - Inserting and Selecting Data From MySQL/Program Files/jsshoutbox/shoutbox.php",
+		"/D/XAMPP/htdocs/jsshoutbox/css/style.css",
+		"/D/XAMPP/htdocs/jsshoutbox/js/script.js",
+		"/E/Eduonix/Ajax Php Shoutbox/Chapter+5+-+Ajax+PHP+Shoutbox/Chapter 5 - Ajax PHP Shoutbox/S4 - jQuery Ajax POST Request/Program Files/jsshoutbox/shoutbox.php",
+		"/E/Eduonix/Ajax Php Shoutbox/Chapter+5+-+Ajax+PHP+Shoutbox/Chapter 5 - Ajax PHP Shoutbox/S4 - jQuery Ajax POST Request/Program Files/jsshoutbox/js/script.js",
+		"/E/Eduonix/Faq Accordian/index.html",
+		"/E/Eduonix/Faq Accordian/Chapter+4+-+FAQ+Accordian+Slider/Chapter 4 - FAQ Accordian Slider/S4 - FAQ Slider JavaScript/Program Files/faqslider/css/style.css",
+		"/E/Eduonix/Faq Accordian/Chapter+4+-+FAQ+Accordian+Slider/Chapter 4 - FAQ Accordian Slider/S4 - FAQ Slider JavaScript/Program Files/faqslider/js/script.js",
+		"/E/Eduonix/Youtube Search Engine/searchvidz/Chapter+3+-+Youtube+Search+Engine/Chapter 3 - Youtube Search Engine/S5 - Displaying Results From API/Program Files/searchvidz/js/script.js",
+		"/E/Eduonix/Youtube Search Engine/searchvidz/Chapter+3+-+Youtube+Search+Engine/Chapter 3 - Youtube Search Engine/S4 - YouTube API GET Request/Program Files/searchvidz/js/script.js",
+		"/E/Eduonix/Youtube Search Engine/searchvidz/css/style.css",
+		"/E/Eduonix/Youtube Search Engine/searchvidz/js/script.js",
+		"/E/Eduonix/Project Slider/index.html",
+		"/E/Eduonix/Project Slider/css/style.css",
+		"/E/Eduonix/Project Slider/js/script.js",
+		"/E/Eduonix/Project Slider/Chapter+2+-+jQuery+Content+Slider/Chapter 2 - jQuery Content Slider/S4 - Content Slider JavaScript/Program Files/contentslider/js/script.js",
+		"/E/Eduonix/Project Slider/Chapter+2+-+jQuery+Content+Slider/Chapter 2 - jQuery Content Slider/S3 - Content Slider HTML & CSS/Program Files/contentslider/index.html",
+		"/E/Eduonix/Project-Quiz/Chapter+1+-+Simple+JavaScript+Quiz/Chapter 1 - Simple JavaScript Quiz/S4 - Quiz CSS/Program Files/simplequiz/index.html",
+		"/E/Eduonix/Project-Quiz/Chapter+1+-+Simple+JavaScript+Quiz/Chapter 1 - Simple JavaScript Quiz/S4 - Quiz CSS/Program Files/simplequiz/js/script.js",
+		"/E/Eduonix/Project-Quiz/Chapter+1+-+Simple+JavaScript+Quiz/Chapter 1 - Simple JavaScript Quiz/S2 - JavaScript Fundamentals/Program Files/index.html",
+		"/E/Eduonix/Project-Quiz/index.html",
+		"/D/XAMPP/htdocs/websiteproject/web/css/style.css",
+		"/D/XAMPP/htdocs/websiteproject/web/animation.js",
+		"/D/XAMPP/htdocs/websiteproject/web/validation.js",
+		"/D/XAMPP/htdocs/websiteproject/web/index.html",
+		"/E/Eduonix/JAVASCRIPT-JQUERY/resource-JavascriptFundamentals/resource-JavascriptFundamentals/resource-TabbedFormProject/resource-TabbedFormProject/Program Files/css/style.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/07_simple_accordion/accordion.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/07_simple_accordion/index.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/07_simple_accordion/script.js",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/05_dropdown_menu/script.js",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/05_dropdown_menu/menus.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/05_dropdown_menu/index.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/06_dropdown_with_hover_intent/script.js",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/06_dropdown_with_hover_intent/menus.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/06_dropdown_with_hover_intent/index.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/04_menu_expand_on_hover/script.js",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/04_menu_expand_on_hover/index.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/03_open_closed_indicators/script.js",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/03_open_closed_indicators/menus.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/03_open_closed_indicators/index.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/04_menu_expand_on_hover/menus.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/02_event_propagation/event.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/02_event_propagation/index.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/02_event_propagation/script.js",
+		"/D/XAMPP/htdocs/test/index.html",
+		"/D/XAMPP/htdocs/test/lib/jquery-1.7.1.min.js",
+		"/D/XAMPP/htdocs/test/script.js",
+		"/D/XAMPP/htdocs/websiteproject/web/script.js",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/Desktop/E-books/JQuery/spbooks-JQUERY2-569eba4/spbooks-JQUERY2-569eba4/chapter_05/01_expandable_menus/index.html",
+		"/D/XAMPP/htdocs/websiteproject/jquery-ui/themes/smoothness/theme.css",
+		"/D/XAMPP/htdocs/websiteproject/web/index_new.html",
+		"/D/XAMPP/htdocs/websiteproject/jquery/dist/jquery.js",
+		"/D/XAMPP/htdocs/websiteproject/jquery-ui/ui/accordion.js",
+		"/D/XAMPP/htdocs/websiteproject/jquery-ui/ui/widget.js",
+		"/D/XAMPP/htdocs/websiteproject/jquery-ui/ui/core.js",
+		"/D/XAMPP/htdocs/websiteproject/index_old.html",
+		"/D/XAMPP/htdocs/comingsoon/web/css/style.css",
+		"/D/XAMPP/htdocs/comingsoon/web/index.html",
+		"/D/XAMPP/htdocs/comingsoon/index.php",
+		"/D/XAMPP/htdocs/comingsoon/smartphone/css/style.css",
+		"/D/XAMPP/htdocs/comingsoon/mobile/css/style.css",
+		"/D/XAMPP/htdocs/comingsoon/mobile/index_old.html",
+		"/D/XAMPP/htdocs/comingsoon/mobile/index.html",
+		"/D/XAMPP/htdocs/comingsoon/smartphone/index.html",
+		"/D/XAMPP/htdocs/comingsoon/smartphone/index_old.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/component.json",
+		"/D/XAMPP/htdocs/websiteproject/index.html",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery/.bower.json",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery/bower.json",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/README.md",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/bower.json",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/.bower.json",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/composer.json",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/package.json",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui-1.11.4.custom/jquery-ui-1.11.4.custom/jquery-ui.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css",
+		"/C/Documents and Settings/giorgos.GIORGOS-POLY/bower_components/jquery-ui/themes/smoothness/theme.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n",
+			"#masthead .hgroup",
+			"filter",
+			"img",
+			"$blue",
+			"blue",
+			".left-sidebar-links",
+			"riddle",
+			"}",
+			";\n",
+			"\n",
+			"wrapper",
+			"\";\n",
+			"#horz-nav p a:hover",
+			"web_development",
+			"design",
+			"web_design",
+			"design",
+			"web-design",
+			"\");\n",
+			"/* Corner radius */",
+			".ui-corner-br",
+			".ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br",
+			"ui-accordion-header ",
+			"left",
+			"h2",
+			"12px",
+			"td",
+			"li",
+			"h1",
+			"<h2>",
+			"giotgos"
+		],
+		"highlight": false,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"web-design",
+			"design"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.953183520599,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"na",
+				"chapter_03/10_animated_navigation_2/navigation.css"
+			],
+			[
+				"",
+				"script.js"
+			],
+			[
+				"giotgos",
+				"var text=\"giorgos,giotgos,giotgos,giotgos,giotgos,"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
