@@ -1,0 +1,6 @@
+
+@mixin horizontal-list-container {
+  @include reset-box-model;
+  @include clearfix;
+}
+
