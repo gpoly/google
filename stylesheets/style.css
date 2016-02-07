@@ -488,7 +488,7 @@ header h6 {
 
 /* line 56, app/*.png */
 .app-sprite, .app-appH, .app-appL {
-  background-image: url('google/images/app-s44df9472ac.png');
+  background-image: url('http://gpoly.github.io/images/app-s44df9472ac.png');
   background-repeat: no-repeat;
 }
 
@@ -1303,13 +1303,13 @@ li.icons-google_black_bell a:hover {
   height: 20px;
   text-indent: -999px;
   display: block;
-  background-image: url("/images/app-s44df9472ac.png");
+  background-image: url("http://gpoly.github.io/images/app-s44df9472ac.png");
   background-repeat: no-repeat;
   background-position: 0 -20px;
 }
 /* line 578, ../sass/style.scss */
 .app-appL a:hover {
-  background-image: url("google/images/app-s44df9472ac.png");
+  background-image: url("http://gpoly.github.io/images/app-s44df9472ac.png");
   background-repeat: no-repeat;
   background-position: 0px 0;
   cursor: default;
